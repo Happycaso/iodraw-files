@@ -16,8 +16,8 @@
         <mxCell id="JMJ-sxs91kXOAvMScZmg-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;初始化硬件&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JMJ-sxs91kXOAvMScZmg-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="JMJ-sxs91kXOAvMScZmg-4" value="发送10μs触发脉冲" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
