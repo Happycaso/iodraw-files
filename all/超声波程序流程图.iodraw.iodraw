@@ -100,6 +100,9 @@
         <mxCell id="JMJ-sxs91kXOAvMScZmg-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="508" y="530" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JMJ-sxs91kXOAvMScZmg-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;延时&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
