@@ -55,7 +55,7 @@
         <mxCell id="F-8nk20eLz5mf_kmRTiy-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;反馈基准电压&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F-8nk20eLz5mf_kmRTiy-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="F-8nk20eLz5mf_kmRTiy-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="310" as="sourcePoint" />
             <mxPoint x="320" y="260" as="targetPoint" />
