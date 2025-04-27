@@ -19,7 +19,7 @@
         <mxCell id="JMJ-sxs91kXOAvMScZmg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMJ-sxs91kXOAvMScZmg-4" target="JMJ-sxs91kXOAvMScZmg-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JMJ-sxs91kXOAvMScZmg-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;舵机归零位置&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JMJ-sxs91kXOAvMScZmg-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;自动进入AT模式&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="352" y="250" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JMJ-sxs91kXOAvMScZmg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMJ-sxs91kXOAvMScZmg-6" target="JMJ-sxs91kXOAvMScZmg-8">
