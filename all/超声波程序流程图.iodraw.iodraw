@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JMJ-sxs91kXOAvMScZmg-6" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;超声波测距&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="340" width="160" height="70" as="geometry" />
+          <mxGeometry x="350" y="340" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JMJ-sxs91kXOAvMScZmg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMJ-sxs91kXOAvMScZmg-8" target="JMJ-sxs91kXOAvMScZmg-10">
           <mxGeometry relative="1" as="geometry" />
