@@ -94,11 +94,11 @@
             <mxPoint x="700" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JMJ-sxs91kXOAvMScZmg-25" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="530" width="60" height="30" as="geometry" />
+        <mxCell id="JMJ-sxs91kXOAvMScZmg-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;N&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JMJ-sxs91kXOAvMScZmg-26" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="510" width="60" height="30" as="geometry" />
+        <mxCell id="JMJ-sxs91kXOAvMScZmg-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="508" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
