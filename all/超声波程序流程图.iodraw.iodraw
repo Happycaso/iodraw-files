@@ -37,7 +37,7 @@
         <mxCell id="JMJ-sxs91kXOAvMScZmg-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;等待被连接&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="610" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JMJ-sxs91kXOAvMScZmg-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;延时&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JMJ-sxs91kXOAvMScZmg-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;建立SPP串口连接&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JMJ-sxs91kXOAvMScZmg-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
