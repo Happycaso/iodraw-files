@@ -25,7 +25,7 @@
         <mxCell id="F-8nk20eLz5mf_kmRTiy-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;电位器&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F-8nk20eLz5mf_kmRTiy-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;电机&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F-8nk20eLz5mf_kmRTiy-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;电压比较器&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
