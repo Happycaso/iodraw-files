@@ -25,6 +25,9 @@
         <mxCell id="2Smtve9sukZdH39-spyD-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;超声波避障&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="300" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2Smtve9sukZdH39-spyD-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
