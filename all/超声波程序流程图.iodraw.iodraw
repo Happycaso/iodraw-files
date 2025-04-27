@@ -103,6 +103,24 @@
             <mxPoint x="558.97" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JMJ-sxs91kXOAvMScZmg-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="590" as="sourcePoint" />
+            <mxPoint x="440" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMJ-sxs91kXOAvMScZmg-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;更新舵机转向&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JMJ-sxs91kXOAvMScZmg-45" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;延时&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JMJ-sxs91kXOAvMScZmg-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439.40999999999997" y="660" as="sourcePoint" />
+            <mxPoint x="439.40999999999997" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
